@@ -1,1 +1,1 @@
-# magazine
+# magazines
